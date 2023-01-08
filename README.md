@@ -12,7 +12,7 @@
 Screenshootnya =
 =======================
 a. Code Source QR:
- meliputi 5 Fungsi JSON, Call atau Telepon serta WEb View dan Map.
+ meliputi 4 Fungsi JSON, Call atau Telepon serta WEb View dan Map.
  
 - Json
 
@@ -46,12 +46,5 @@ screenshhotnya :
 
 ![Screenshot_20230108-121746_Maps](https://user-images.githubusercontent.com/116171779/211182927-bae3914b-f329-4eb3-b67d-c8187b07f593.jpg)
 
--email
-
-![image](https://user-images.githubusercontent.com/116171779/211182185-65b78e2a-2b8b-4609-a987-49e513ef88dd.png)
-
-screenshhotnya :
-
-![Screenshot_20230108-124042_Gmail](https://user-images.githubusercontent.com/116171779/211182938-92e1e967-7c87-4fc1-b7fe-bb8478bf86d8.jpg)
 
 
