@@ -2,7 +2,7 @@
 * Amirul Mu'minin
 * 312110109
 * TI.21.C2
-* Pemrograman Mobile 1->UAS
+* Pemrograman Mobile 1->
 
 
 # Berikut Hasil Pembuatan QR Code Scanner sebagai berikut melalui berbagai tahapan :
