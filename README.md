@@ -1,4 +1,9 @@
-# QR_Scanner-Amirul Mu'minin
+# QR_Scanner
+* Amirul Mu'minin
+* 312110109
+* TI.21.C2
+* Pemrograman Mobile 1->UAS
+
 
 # Berikut Hasil Pembuatan QR Code Scanner sebagai berikut melalui berbagai tahapan :
 
@@ -6,8 +11,20 @@
 
 Screenshootnya =
 =======================
-a. Code Source:
-- Main Activity
-Dalam Main activity terdapat code source yang meliputi 5 Fungsi JSON, Call atau Telepon serta WEb View dan Map.
+a. Code Source QR:
+ meliputi 5 Fungsi JSON, Call atau Telepon serta WEb View dan Map.
+ 
+- Json
+ ![image](https://user-images.githubusercontent.com/116171779/211182092-bc8d74cb-ea29-4d1f-8852-b4740347686c.png)
+ ![Screenshot_20230108-121642_QRCodeScanner_by_Amirul](https://user-images.githubusercontent.com/116171779/211182279-e0f0710a-8f6a-4042-8cf6-b49ee8d3049d.jpg)
 
-b. Hasil Running App dan Commit & Push ke Github :
+-phone call
+![image](https://user-images.githubusercontent.com/116171779/211182132-476b16c6-a7dd-4415-850e-c2b9dacba22c.png)
+-web
+![image](https://user-images.githubusercontent.com/116171779/211182147-6033df32-f756-4ade-a1c5-17dd21402894.png)
+-map
+![image](https://user-images.githubusercontent.com/116171779/211182169-5ae86208-2c0f-4ec3-81b0-3548d66d348f.png)
+-email
+![image](https://user-images.githubusercontent.com/116171779/211182185-65b78e2a-2b8b-4609-a987-49e513ef88dd.png)
+
+b. Hasil Running screenshhot qr code:
