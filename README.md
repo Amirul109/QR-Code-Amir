@@ -1,4 +1,4 @@
-# QR_Scanner
+# QR_Scanner_UAS
 * Amirul Mu'minin
 * 312110109
 * TI.21.C2
